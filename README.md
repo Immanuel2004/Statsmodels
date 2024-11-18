@@ -1,0 +1,2 @@
+# Statsmodels
+Exploring Statsmodels 
